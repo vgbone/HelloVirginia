@@ -1,6 +1,6 @@
-public class HelloVirginia {
+public class HelloVirginiaSark {
 	public static void main(String[] args){
-	// Prints "Hello, Virgina" in the terminal window.
-	System.out.println("Hello, Virginia");
+	// Prints "Hello, Virgina Sark" in the terminal window.
+	System.out.println("Hello, Virginia Sark");
 }
 }
